@@ -1,5 +1,6 @@
 # BibTex Bibliography for Michele Giugliano 
 
+The file bib.bib is the current BibTeX bibliography file to use.
 
 Useful links:
 http://brunomessias.com/2017/09/13/Bibcure/
